@@ -303,15 +303,15 @@ cat_id;name
 5680;Master MX Ju-Jitsu Fighting Women p70 kg
 17077;MasterM 4 Jiu-Jitsu Men -69 kg
 17220;Masters Fighting Men -69 kg
-17165;Para Duo Mixed
-17164;Para Jiu-Jitsu Men
-17271;Para Jiu-Jitsu Men Heavyweight
-17269;Para Jiu-Jitsu Men Lightweight
-17270;Para Jiu-Jitsu Men Middleweight
-17163;Para Jiu-Jitsu Women
-17267;Para Jiu-Jitsu Women 1
-17268;Para Jiu-Jitsu Women 2
-16337;Para Ju-Jitsu
+17165;Adults Para Duo Mixed
+17164;Adults Para Jiu-Jitsu Men
+17271;Adults Para Jiu-Jitsu Men Heavyweight
+17269;Adults Para Jiu-Jitsu Men Lightweight
+17270;Adults Para Jiu-Jitsu Men Middleweight
+17163;Adults Para Jiu-Jitsu Women
+17267;Adults Para Jiu-Jitsu Women 1
+17268;Adults Para Jiu-Jitsu Women 2
+16337;Adults Para Ju-Jitsu
 4205;U10 Duo Men
 4207;U10 Duo Mixed
 14473;U10 Duo Mixed
@@ -916,3 +916,15 @@ cat_id;name
 17911;U21 Jiu-Jitsu NoGi Men -77 kg
 17912;U21 Jiu-Jitsu NoGi Men -85 kg
 17913;U21 Jiu-Jitsu NoGi Men -94 kg
+23373;Adults Duo Inclusive Self-Defense Cognitive
+23374;Adults Duo Inclusive Self-Defense Physical
+23777;Adults Para Jiu-Jitsu Cerebral Palsy Mixed Open Weight
+23772;Adults Para Jiu-Jitsu Cognitive Women Open Weight
+23787;Adults Para Jiu-Jitsu Physical Mixed -77 kg
+23775;Adults Para Jiu-Jitsu Sensory Women -48 kg
+4363;Adults Contact Ju-Jitsu Men p94 kg
+4358;Adults Contact Ju-Jitsu Men -62 kg
+4360;Adults Contact Ju-Jitsu Men -77 kg
+4361;Adults Contact Ju-Jitsu Men -85 kg
+4362;Adults Contact Ju-Jitsu Men -94 kg
+109	U18 Fighting Women -40 kg
