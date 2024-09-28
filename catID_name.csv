@@ -13,10 +13,12 @@ cat_id;name
 19276;Adults Contact Hif Ju-Jitsu Women -63 kg
 19277;Adults Contact Hif Ju-Jitsu Women -70 kg
 19271;Adults Contact Hif Ju-Jitsu Women p70 kg
+4357;Adults Contact Ju-Jitsu Men -56 kg
 470;Adults Contact Ju-Jitsu Men -56 kg
 4932;Adults Contact Ju-Jitsu Men -56 kg
 471;Adults Contact Ju-Jitsu Men -62 kg
 4933;Adults Contact Ju-Jitsu Men -62 kg
+4359;Adults Contact Ju-Jitsu Men -69 kg
 472;Adults Contact Ju-Jitsu Men -69 kg
 4102;Adults Contact Ju-Jitsu Men -69 kg
 473;Adults Contact Ju-Jitsu Men -77 kg
@@ -27,7 +29,9 @@ cat_id;name
 4103;Adults Contact Ju-Jitsu Men -94 kg
 476;Adults Contact Ju-Jitsu Men p94 kg
 4936;Adults Contact Ju-Jitsu Men p94 kg
+4351;Adults Contact Ju-Jitsu Women -45 kg
 4937;Adults Contact Ju-Jitsu Women -45 kg
+4352;Adults Contact Ju-Jitsu Women -48 kg
 4938;Adults Contact Ju-Jitsu Women -48 kg
 477;Adults Contact Ju-Jitsu Women -49 kg
 4939;Adults Contact Ju-Jitsu Women -52 kg
@@ -43,6 +47,7 @@ cat_id;name
 4941;Adults Contact Ju-Jitsu Women -70 kg
 481;Adults Contact Ju-Jitsu Women p70 kg
 4942;Adults Contact Ju-Jitsu Women p70 kg
+4350;Adults Contact Ju-Jitsu Women p70 kg
 1499;Adults Contact Men -56 kg
 1500;Adults Contact Men -62 kg
 1501;Adults Contact Men -69 kg
@@ -201,23 +206,18 @@ cat_id;name
 4370;Adults Para Duo Mixed
 4951;Adults Para Duo Mixed
 1513;Adults Para Jiu-Jitsu Men -56 kg
-4359;Adults Para Jiu-Jitsu Men -56 kg
 349;Adults Para Jiu-Jitsu Men -62 kg
 1514;Adults Para Jiu-Jitsu Men -62 kg
 100002;Adults Para Jiu-Jitsu Men -62 kg
 1515;Adults Para Jiu-Jitsu Men -69 kg
-4350;Adults Para Jiu-Jitsu Men -69 kg
 918;Adults Para Jiu-Jitsu Men -77 kg
 921;Adults Para Jiu-Jitsu Men -77 kg
 1516;Adults Para Jiu-Jitsu Men -77 kg
-4351;Adults Para Jiu-Jitsu Men -77 kg
 4952;Adults Para Jiu-Jitsu Men -77 kg
 5646;Adults Para Jiu-Jitsu Men -77 kg
 100001;Adults Para Jiu-Jitsu Men -77 kg
-4352;Adults Para Jiu-Jitsu Men -85 kg
 7101;Adults Para Jiu-Jitsu Men p94 kg
 1520;Adults Para Jiu-Jitsu Women -45 kg
-4357;Adults Para Jiu-Jitsu Women -70 kg
 100000;Adults Para Jiu-Jitsu Women p70 kg
 30;Adults Show Men
 460;Adults Show Men
